@@ -120,6 +120,11 @@ header + article {
   margin-top: 2em;
 }
 
+article > .line > .mod a, section > article > .big a {
+  background-color: Gainsboro;
+  border-radius: 4px;
+}
+
 .categorie {
   background-image: url("img/rayures.png");
   background-repeat: repeat-x;
@@ -131,9 +136,6 @@ header + article {
   background-image: url("img/fond.png");
   padding-left: 0.4em;
   padding-right: 0.4em;
-}
-
-section {
 }
 
 article > header > h1 > a {
