@@ -44,6 +44,7 @@
 		<a href="<?php $plxShow->urlRewrite('#top') ?>" title="<?php $plxShow->lang('GOTO_TOP') ?>"><?php $plxShow->lang('TOP') ?></a>
 		<?php $plxShow->httpEncoding() ?>
 	</p>
+        <p>Thème <a href="https://github.com/JulienBiaudet/simpleOne" title="Thème simpleOne">simpleOne</a> par Julien Biaudet</p>
     </div>
 
 </footer>
